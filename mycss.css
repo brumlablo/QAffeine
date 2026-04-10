@@ -9,9 +9,23 @@ body {
 }
 
 #LucieG {
-  background-color: initial;
-  font-family: initial;
-  color: initial;
+  display: flex;
+  background-color: beige;
+  font-family: "Red Hat Display", sans-serif;
+  color: #3b3022;
+  padding: 20px 20px;
+}
+.text-wrapper {
+  width: 40%;
+  padding-right: 30px;
+}
+.img-wrapper {
+  padding: 30px;
+}
+.imglugue {
+  border: 1px solid #ddd;
+  padding: 5px;
+  border-radius: 50%;
 }
 
 #MarketaP {
@@ -21,7 +35,7 @@ body {
 }
 
 #KarolinaS {
-  background-color:bisque;
+  background-color: bisque;
   font-family: "Georgia";
-  color:blueviolet;
+  color: blueviolet;
 }
